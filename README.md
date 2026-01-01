@@ -1,4 +1,4 @@
-# IMAGS
+# IMAGS for Max
 ## https://imags.eamir.org/
 
 ## What is IMAGS?<br>
