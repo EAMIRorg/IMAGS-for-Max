@@ -11,7 +11,7 @@ Additionally, IMAGS seeks to provide a mobile peer support system that promotes 
 Visit http://imags.eamir.org for more information
 
 ## Data Viewer Software
-The IMAGS Data Viewer software is an open-source project made available as part of EAMIR (http://eamir.org) and the Interactive Music Systems Lab at WPI (http://ims.vjlab.org) here:<br>
+The IMAGS Data Viewer software is an open-source project developed in Max by Cycling '74 (http://cyclng74.com) made available as part of EAMIR (http://eamir.org) and the Interactive Music Systems Lab at WPI (http://ims.vjlab.org) here:<br>
 https://github.com/EAMIRorg/IMAGS 
 
 ## Galvanic Skin Response (GSR) Hardware - a related repository 
