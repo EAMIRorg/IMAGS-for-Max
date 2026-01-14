@@ -19,3 +19,10 @@ A repository and a step-by-step video guide for building your own Arduino-based 
 
 The IMAGS GSR hardware is an open-source hardware is an open-source project available here:<br>
 https://github.com/EAMIRorg/GSR 
+
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using Squidbox are not considered Contributions and remain the sole property of their creators.
